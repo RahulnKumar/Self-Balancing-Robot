@@ -13,3 +13,8 @@ Self Balancing Robot with PSO based self tuned PID controller.<br/>
 * cost.m     : It contains the cost function which is minimized by PSO and cost is taken is the sum of theta in each iteration
 * pd_tune.m : It contains PSO code for tuning PD gains and I-gain is taken 0 as it is not needed at all in this case.
 * Self_balancing_robot_simulation.m : It is the main file that simulates the actual self balancing robot
+## Contributors  
+ - Rahul Kumar, Sajan Kumar  
+ ## License & copyright
+ © Rahul Kumar 2019    
+ Licensed under the [MIT License](LICENSE)
