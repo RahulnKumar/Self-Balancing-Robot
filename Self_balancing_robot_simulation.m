@@ -1,3 +1,5 @@
+% Copyright © Rahul Kumar 2020
+
 clear all
 close all
 clc
