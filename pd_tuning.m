@@ -1,4 +1,5 @@
 % Particle Swarm Optimization
+% Copyright © Rahul Kumar 2019
 clear all
 clc
     
